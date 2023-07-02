@@ -1,0 +1,5 @@
+# For files created by specific development environment (e.g. editor),
+.code/
+.vscode/
+*.code-workspace
+.idea/
